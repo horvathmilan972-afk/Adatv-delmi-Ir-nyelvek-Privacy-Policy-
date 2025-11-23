@@ -1,0 +1,1 @@
+# Adatv-delmi-Ir-nyelvek-Privacy-Policy-
