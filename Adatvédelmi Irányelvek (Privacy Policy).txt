@@ -1,0 +1,51 @@
+Adatvédelmi Irányelvek (Privacy Policy) – Tester
+
+Utolsó frissítés: 2025. november 23.
+
+Ez az adatvédelmi irányelv a Tester bot használatára vonatkozik, amely a Milan2007 szervere Discord szerverhez tartozik. Kérjük, hogy alaposan olvasd el, hogyan kezeljük a személyes adatokat és információkat.
+
+1. Milyen adatokat gyűjtünk?
+
+A Tester bot a következő adatokat gyűjti, amikor használod:
+
+Discord felhasználói adatok: A bot a Discord API segítségével hozzáférhet a felhasználó azonosítójához (felhasználói ID), valamint egyéb nyilvános információkhoz, például a felhasználó nevéhez és szerverhez való csatlakozási státuszához.
+
+Felhasználói interakciók: Az általad küldött üzenetek és parancsok tárolásra kerülnek a bot működéséhez szükséges ideig, de nem kerülnek tartósan eltárolásra.
+
+2. Miért gyűjtjük az adatokat?
+
+Az összegyűjtött adatokat a következő célokra használjuk:
+
+A bot működése: Az általad küldött parancsok és interakciók feldolgozása és válaszok generálása.
+
+Felhasználói élmény javítása: A bot folyamatos fejlesztése és optimalizálása a felhasználói élmény javítása érdekében.
+
+Hibák és problémák nyomon követése: A bot működésével kapcsolatos hibák és problémák diagnosztizálása és javítása.
+
+3. Hogyan kezeljük az adatokat?
+
+A bot nem tárolja tartósan az adatokat. Az adatokat kizárólag a bot működéséhez szükséges ideig kezeljük. Az adatokat nem osztjuk meg harmadik féllel, kivéve, ha jogi kötelezettség vagy szabályozás előírja.
+
+4. Harmadik fél általi hozzáférés
+
+A bot nem osztja meg az összegyűjtött adatokat harmadik féllel, és nem biztosít hozzáférést azokhoz, kivéve, ha a törvény előírja. Azonban a bot külső szolgáltatásokat, például a Discord API-t használ, amelyek a saját adatvédelmi irányelveikkel rendelkeznek.
+
+5. Adatbiztonság
+
+Bár mindent megteszünk az adatok védelme érdekében, nincs olyan biztonsági rendszer, amely teljes mértékben kizárja az adatlopás vagy más típusú visszaéléseket. A bot használatával elfogadod a lehetséges kockázatokat.
+
+6. Jogosultságok
+
+A felhasználóknak jogukban áll kérni a gyűjtött adatok törlését, módosítását vagy hozzáférését. Mivel a bot nem tárol hosszú távon adatokat, a legjobb módja annak, hogy adatokat kérj törlésre, ha kapcsolatba lépsz velünk.
+
+7. Változások az adatvédelmi irányelvekben
+
+Fenntartjuk a jogot, hogy bármikor módosítsuk ezeket az adatvédelmi irányelveket. A módosításokat ezen az oldalon tesszük közzé, és az új irányelvek azonnali hatállyal érvénybe lépnek.
+
+8. Kapcsolat
+
+Ha kérdéseid vagy aggályaid vannak az adatvédelmi irányelveinkkel kapcsolatban, kérjük, vedd fel velünk a kapcsolatot az alábbi módon:
+
+E-mail: horvathmilan972@gmail.com
+
+Discord szerver: https://discord.gg/EbCu4QcE7z
